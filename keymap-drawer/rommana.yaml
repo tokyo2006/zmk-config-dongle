@@ -84,8 +84,8 @@ layers:
   - $$mdi:arrow-right$$
   - INS
   - $$mdi:content-cut$$
-  - LC(C)
-  - LC(V)
+  - $$mdi:content-copy$$
+  - $$mdi:content-paste$$
   - $$mdi:arrow-left-bold-box-outline$$
   - $$mdi:swap-horizontal$$
   - $$mdi:arrow-right-bold-box-outline$$
