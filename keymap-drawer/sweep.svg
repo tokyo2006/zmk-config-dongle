@@ -1523,7 +1523,7 @@ rect.held, rect.combo.held {
 <g transform="translate(252, 56)" class="key keypos-4">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<use href="#mdi:brightness-4" xlink:href="#mdi:brightness-4" x="-7" y="-11" height="14" width="14.0" class="key tap glyph mdi:brightness-4"/>
+<use href="#mdi:brightness-5" xlink:href="#mdi:brightness-5" x="-7" y="-11" height="14" width="14.0" class="key tap glyph mdi:brightness-5"/>
 </g>
 <g transform="translate(420, 56)" class="key text_with_symbol keypos-5">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key text_with_symbol side"/>
@@ -1577,7 +1577,7 @@ rect.held, rect.combo.held {
 <g transform="translate(252, 112)" class="key keypos-14">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<use href="#mdi:brightness-5" xlink:href="#mdi:brightness-5" x="-7" y="-11" height="14" width="14.0" class="key tap glyph mdi:brightness-5"/>
+<use href="#mdi:brightness-4" xlink:href="#mdi:brightness-4" x="-7" y="-11" height="14" width="14.0" class="key tap glyph mdi:brightness-4"/>
 </g>
 <g transform="translate(420, 112)" class="key keypos-15">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
