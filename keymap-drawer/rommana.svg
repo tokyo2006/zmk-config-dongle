@@ -1159,10 +1159,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key held side"/>
 <rect rx="4" ry="4" x="-22" y="-24" width="43" height="40" class="key held"/>
 </g>
-<g transform="translate(161, 28)" class="key trans keypos-2">
-<rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-22" y="-24" width="43" height="40" class="key trans"/>
-<use href="#mdi:chevron-down" xlink:href="#mdi:chevron-down" x="-7" y="-11" height="14" width="14.0" class="key trans tap glyph mdi:chevron-down"/>
+<g transform="translate(161, 28)" class="key held keypos-2">
+<rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key held side"/>
+<rect rx="4" ry="4" x="-22" y="-24" width="43" height="40" class="key held"/>
 </g>
 <g transform="translate(222, 42)" class="key held keypos-3">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key held side"/>
@@ -1317,9 +1316,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
 <rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
-<g transform="translate(80, 72)" class="key keypos-3">
-<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key side"/>
-<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key"/>
+<g transform="translate(80, 72)" class="key held keypos-3">
+<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
+<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
 <g transform="translate(111, 79)" class="key held keypos-4">
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
@@ -1486,9 +1485,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
 <rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
-<g transform="translate(80, 101)" class="key keypos-13">
-<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key side"/>
-<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key"/>
+<g transform="translate(80, 101)" class="key held keypos-13">
+<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
+<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
 <g transform="translate(111, 108)" class="key held keypos-14">
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
@@ -1636,9 +1635,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
 <rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
-<g transform="translate(285, 101)" class="key keypos-18">
-<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key side"/>
-<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key"/>
+<g transform="translate(285, 101)" class="key held keypos-18">
+<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
+<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
 <g transform="translate(317, 110) rotate(3.0)" class="key held keypos-19">
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
@@ -1726,9 +1725,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
 <rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
-<g transform="translate(285, 72)" class="key keypos-8">
-<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key side"/>
-<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key"/>
+<g transform="translate(285, 72)" class="key held keypos-8">
+<rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
+<rect rx="4" ry="4" x="-7" y="-10" width="14" height="12" class="key held"/>
 </g>
 <g transform="translate(318, 81) rotate(3.0)" class="key held keypos-9">
 <rect rx="6" ry="6" x="-13" y="-12" width="26" height="24" class="key held side"/>
